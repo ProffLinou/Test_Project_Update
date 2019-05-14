@@ -14,6 +14,7 @@
 #define HOTE "127.0.0.1" //adresse IP
 #define PORT 33016
 
+// Version 1.26 05.01.2019
 int cree_socket_tcp_ip()
 {
 	int sock;
