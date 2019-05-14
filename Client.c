@@ -10,7 +10,7 @@
 #include <sys/socket.h>
 #define BUFFER_SIZE 256
 
-Version 1.26 (05.01.2019)
+// Version 1.26 (05.01.2019)
 int cree_socket_tcp_client(int argc, char** argv)
 {
 	struct sockaddr_in adresse;
